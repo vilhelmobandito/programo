@@ -310,8 +310,8 @@ DESCRIPTION;ALTREP="data:text/html,Kio%20estas%20akvo%20kaj%20kie%20trovi%2
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20260131T165418Z
-LAST-MODIFIED:20260131T165705Z
-DTSTAMP:20260131T165705Z
+LAST-MODIFIED:20260205T100046Z
+DTSTAMP:20260205T100046Z
 UID:53eefc25-53a7-43ac-9958-a6a2bd0b246a
 SUMMARY:E: Ekskurso al Kanado
 DTSTART;TZID=Europe/Berlin:20260223T140000
@@ -320,8 +320,18 @@ TRANSP:OPAQUE
 LOCATION:eksterlande
 DESCRIPTION;ALTREP="data:text/html,Ni%20ekskursos%20de%20Germanujo%20al%20K
  anado%20per%20spac%C5%9Dipo%20kaj%20revenos%20%C4%9Dustatempe%20por%20vespe
- rman%C4%9Di.%3Cbr%3E(Johano%20Marsano)":Ni ekskursos de Germanujo al Kanado
-  per spacŝipo kaj revenos ĝustatempe por vespermanĝi.\n(Johano Marsano)
+ rman%C4%9Di.%20Ni%20ekskursos%20de%20Germanujo%20al%20Kanado%20per%20spac%C
+ 5%9Dipo%20kaj%20revenos%20%C4%9Dustatempe%20por%20vesperman%C4%9Di.%20Ni%20
+ ekskursos%20de%20Germanujo%20al%20Kanado%20per%20spac%C5%9Dipo%20kaj%20reve
+ nos%20%C4%9Dustatempe%20por%20vesperman%C4%9Di.%20Ni%20ekskursos%20de%20Ger
+ manujo%20al%20Kanado%20per%20spac%C5%9Dipo%20kaj%20revenos%20%C4%9Dustatemp
+ e%20por%20vesperman%C4%9Di.%3Cbr%3E(Johano%20Marsano)":Ni ekskursos de Germ
+ anujo al Kanado per spacŝipo kaj revenos ĝustatempe por vespermanĝi. Ni 
+ ekskursos de Germanujo al Kanado per spacŝipo kaj revenos ĝustatempe por 
+ vespermanĝi. Ni ekskursos de Germanujo al Kanado per spacŝipo kaj revenos
+  ĝustatempe por vespermanĝi. Ni ekskursos de Germanujo al Kanado per spac
+ ŝipo kaj revenos ĝustatempe por vespermanĝi.\n(Johano Marsano)
+X-MOZ-GENERATION:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20260131T165714Z
