@@ -310,8 +310,8 @@ DESCRIPTION;ALTREP="data:text/html,Kio%20estas%20akvo%20kaj%20kie%20trovi%2
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20260131T165418Z
-LAST-MODIFIED:20260205T100046Z
-DTSTAMP:20260205T100046Z
+LAST-MODIFIED:20260205T100617Z
+DTSTAMP:20260205T100617Z
 UID:53eefc25-53a7-43ac-9958-a6a2bd0b246a
 SUMMARY:E: Ekskurso al Kanado
 DTSTART;TZID=Europe/Berlin:20260223T140000
@@ -320,18 +320,9 @@ TRANSP:OPAQUE
 LOCATION:eksterlande
 DESCRIPTION;ALTREP="data:text/html,Ni%20ekskursos%20de%20Germanujo%20al%20K
  anado%20per%20spac%C5%9Dipo%20kaj%20revenos%20%C4%9Dustatempe%20por%20vespe
- rman%C4%9Di.%20Ni%20ekskursos%20de%20Germanujo%20al%20Kanado%20per%20spac%C
- 5%9Dipo%20kaj%20revenos%20%C4%9Dustatempe%20por%20vesperman%C4%9Di.%20Ni%20
- ekskursos%20de%20Germanujo%20al%20Kanado%20per%20spac%C5%9Dipo%20kaj%20reve
- nos%20%C4%9Dustatempe%20por%20vesperman%C4%9Di.%20Ni%20ekskursos%20de%20Ger
- manujo%20al%20Kanado%20per%20spac%C5%9Dipo%20kaj%20revenos%20%C4%9Dustatemp
- e%20por%20vesperman%C4%9Di.%3Cbr%3E(Johano%20Marsano)":Ni ekskursos de Germ
- anujo al Kanado per spacŝipo kaj revenos ĝustatempe por vespermanĝi. Ni 
- ekskursos de Germanujo al Kanado per spacŝipo kaj revenos ĝustatempe por 
- vespermanĝi. Ni ekskursos de Germanujo al Kanado per spacŝipo kaj revenos
-  ĝustatempe por vespermanĝi. Ni ekskursos de Germanujo al Kanado per spac
- ŝipo kaj revenos ĝustatempe por vespermanĝi.\n(Johano Marsano)
-X-MOZ-GENERATION:1
+ rman%C4%9Di.%3Cbr%3E(Johano%20Marsano)":Ni ekskursos de Germanujo al Kanado
+  per spacŝipo kaj revenos ĝustatempe por vespermanĝi.\n(Johano Marsano)
+X-MOZ-GENERATION:2
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20260131T165714Z
@@ -349,8 +340,8 @@ DESCRIPTION;ALTREP="data:text/html,Konstruu%20vian%20propran%20bicikon%20pe
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20260131T164904Z
-LAST-MODIFIED:20260131T165924Z
-DTSTAMP:20260131T165924Z
+LAST-MODIFIED:20260205T100631Z
+DTSTAMP:20260205T100631Z
 UID:370865ac-c5f7-4480-9d6a-d0c905e8dc8b
 SUMMARY:A: Lignaj poŝtelefonoj
 DTSTART;TZID=Europe/Berlin:20260223T110000
@@ -358,10 +349,10 @@ DTEND;TZID=Europe/Berlin:20260223T120000
 TRANSP:OPAQUE
 LOCATION:A208
 DESCRIPTION;ALTREP="data:text/html,Lernu%20kiel%20konstrui%20viajn%20propra
- n%20funkciantan%20po%C5%9Dtelefono%2C%20uzante%20nur%20pecon%20da%20ligno.%
- 3Cbr%3E(Mario%20Mustermann)":Lernu kiel konstrui viajn propran funkciantan 
- poŝtelefono\, uzante nur pecon da ligno.\n(Mario Mustermann)
-X-MOZ-GENERATION:1
+ n%20funkciantan%20po%C5%9Dtelefonon%2C%20uzante%20nur%20pecon%20da%20ligno.
+ %3Cbr%3E(Mario%20Mustermann)":Lernu kiel konstrui viajn propran funkciantan
+  poŝtelefonon\, uzante nur pecon da ligno.\n(Mario Mustermann)
+X-MOZ-GENERATION:2
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20260131T165927Z
